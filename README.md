@@ -8,4 +8,3 @@ npm install --save-dev jest
 node_modules/
 .env
 database.db
-
