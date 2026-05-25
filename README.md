@@ -8,20 +8,4 @@ npm install --save-dev jest
 node_modules/
 .env
 database.db
-shopcontrol-ecommerce/
-│
-├── src/
-│   ├── modules/
-│   │   ├── users/
-│   │   ├── products/
-│   │   ├── cart/
-│   │   ├── orders/
-│   │   └── reports/
-│   ├── config/
-│   ├── utils/
-│   └── app.js
-├── tests/
-├── package.json
-├── README.md
-├── .gitignore
-└── .env.example
+
